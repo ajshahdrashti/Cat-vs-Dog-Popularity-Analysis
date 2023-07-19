@@ -10,3 +10,5 @@
 
 # Dashboard-Cat vs Dog Popularity in U.S.
 
+![image](https://github.com/ajshahdrashti/Cat-vs-Dog-Popularity-Analysis/assets/112719599/419b42ae-8d8f-4e50-9fdd-24434e724323)
+
